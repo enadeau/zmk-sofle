@@ -82,10 +82,10 @@
 
         base {
             bindings = <
-&none       &none           &none           &none        &none             &none        &kp UP_ARROW     &none            &none              &none                &none            &none            &none
-&none       &kp Q           &kp W           &kp E        &kp R             &kp T        &kp DOWN_ARROW   &kp Y            &kp U              &kp I                &kp O            &kp APOSTROPHE   &none
-&none       &mt LEFT_GUI A  &mt LEFT_ALT S  &mt LCTRL D  &mt LEFT_SHIFT F  &kp G        &kp LEFT_ARROW   &kp H            &mt RIGHT_SHIFT J  &mt RIGHT_CONTROL K  &mt RIGHT_ALT L  &mt RIGHT_GUI P  &none
-&none       &kp Z           &kp X           &kp C        &kp V             &kp B        &kp RIGHT_ARROW  &kp N            &kp M              &kp COMMA            &kp DOT          &kp FSLH         &none
+&none       &none           &none           &none        &none             &none        &kp UP_ARROW     &none            &none              &none                &none            &none                     &none
+&none       &kp Q           &kp W           &kp E        &kp R             &kp T        &kp DOWN_ARROW   &kp Y            &kp U              &kp I                &kp O            &kp P                     &none
+&none       &mt LEFT_GUI A  &mt LEFT_ALT S  &mt LCTRL D  &mt LEFT_SHIFT F  &kp G        &kp LEFT_ARROW   &kp H            &mt RIGHT_SHIFT J  &mt RIGHT_CONTROL K  &mt RIGHT_ALT L  &mt RIGHT_GUI APOSTROPHE  &none
+&none       &kp Z           &kp X           &kp C        &kp V             &kp B        &kp RIGHT_ARROW  &kp N            &kp M              &kp COMMA            &kp DOT          &kp FSLH                  &none
 &kp C_MUTE  &none           &none           &kp ESCAPE   &kp TAB           &kp SPACE    &kp ENTER        &lt 1 BACKSPACE  &kp ENTER          &kp DELETE           &kp RIGHT_SHIFT  &kp DELETE
             >;
 
